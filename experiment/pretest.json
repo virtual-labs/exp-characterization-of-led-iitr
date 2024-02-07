@@ -1,39 +1,7 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+[{"question":"The reverse breakdown voltage of LED is very low. State True/False?","answers":{"a":"True","b":"False"},"correctAnswer":"a"},
+{"question":"What is the bandwidth of the emitted light in an LED?","answers":{"a":"20 nm to 50 nm","b":"10 nm to 50 nm","c":"30 nm to 50 nm","d":"40 nm to 50 nm"},"correctAnswer":"b"},
+{"question":"Which of the following is not a characteristic of LED?","answers":{"a":"High voltage","b":"High Warm-up time","c":"Long life","d":"Fast action"},"correctAnswer":"b"},
+{"question":"LED _____________","answers":{"a":"Laser Emittig Diode","b":"Liquid Emittig Diode","c":"Loss Emittig Diode","d":"Light Emittig Diode"},"correctAnswer":"d"},
+{"question":"Increase in the forward current always increases the intensity of an LED. State True/False?","answers":{"a":"True","b":"False"},"correctAnswer":"b"}]
+
+
