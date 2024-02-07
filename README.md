@@ -5,7 +5,7 @@
 
 <b>Discipline | <b> Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b> Surveying
+<b> Lab | <b> Optical Communication
 <b> Experiment|     <b> 1. Characterization of LED
 
 <h5> About the Experiment : </h5> <br>
