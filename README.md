@@ -3,7 +3,7 @@
 
 <br>
 
-<b>Discipline | <b> 
+<b>Discipline | <b> Electronics and Communication Engineering
 :--|:--|
 <b> Lab | <b> Surveying
 <b> Experiment|     <b> 1. Characterization of LED
