@@ -21,10 +21,11 @@ To study the Characteristics of LED and Plot the graph of V-I characteristics of
 
 ### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | Rajeev Kumar | Senior Research Fellow | Electrical Engineering | IIT Roorkee | rajeevkumar.rke@gmail.com
-2 | Nipun Jain | Project Associate | Electrical Engineering | IIT Roorkee | nipunjain1305@gmail.com
-3 | Pragya Daksh | Project Associate | Electrical Engineering | IIT Roorkee | prgdaksh@gmail.com
+SrNo | Name | Faculty or Student | Institute | Email id
+:--|:--|:--|:--|:--|
+| 1 | Dr Y. Syamala & Team | Faculty  | GEC Andhra Pradesh | syamala@gecgudlavallerumic.in |
+| 2 | Rajeev Kumar | Senior Research Fellow | IIT Roorkee |  rajeevkumar.rke@gmail.com|
+| 3 | Nipun Jain | Project Associate | IIT Roorkee | nipunjain1305@gmail.com |
+| 4 | Pragya Daksh | Project Associate | IIT Roorkee | prgdaksh@gmail.com |
 
 <br>
