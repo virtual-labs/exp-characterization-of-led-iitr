@@ -7,7 +7,7 @@
 
 ### Person Associated in the Lab Development
 | SNo. | Name | Email | Institute | Position |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: | :---: |
 
 | 1 | Dr Y. Syamala & Team | syamala@gecgudlavallerumic.in | GEC Andhra Pradesh | Faculty |
 | 2 | Rajeev Kumar | rajeevkumar.rke@gmail.com | IIT Roorkee | Senior Research Fellow |
