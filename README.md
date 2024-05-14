@@ -21,7 +21,7 @@ To study the Characteristics of LED and Plot the graph of V-I characteristics of
 
 ### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
+SrNo | Name | Faculty or Student | Institute | Email id
 :--|:--|:--|:--|:--|:--|
 | 1 | Dr Y. Syamala & Team | Faculty  | GEC Andhra Pradesh | syamala@gecgudlavallerumic.in |
 | 2 | Rajeev Kumar | Senior Research Fellow | IIT Roorkee |  rajeevkumar.rke@gmail.com|
