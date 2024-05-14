@@ -23,8 +23,9 @@ To study the Characteristics of LED and Plot the graph of V-I characteristics of
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Rajeev Kumar | Senior Research Fellow | Electrical Engineering | IIT Roorkee | rajeevkumar.rke@gmail.com
-2 | Nipun Jain | Project Associate | Electrical Engineering | IIT Roorkee | nipunjain1305@gmail.com
-3 | Pragya Daksh | Project Associate | Electrical Engineering | IIT Roorkee | prgdaksh@gmail.com
+| 1 | Dr Y. Syamala & Team | syamala@gecgudlavallerumic.in | GEC Andhra Pradesh | Faculty |
+| 2 | Rajeev Kumar | rajeevkumar.rke@gmail.com | IIT Roorkee | Senior Research Fellow |
+| 3 | Nipun Jain | nipunjain1305@gmail.com | IIT Roorkee | Project Associate |
+| 4 | Pragya Daksh | prgdaksh@gmail.com | IIT Roorkee | Project Associate |
 
 <br>
